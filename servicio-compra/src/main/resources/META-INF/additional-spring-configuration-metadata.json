@@ -1,0 +1,14 @@
+{
+  "properties": [
+    {
+      "name": "inventario.service.url",
+      "type": "java.lang.String",
+      "description": "URL base del microservicio de inventario"
+    },
+    {
+      "name": "catalogo.service.url",
+      "type": "java.lang.String",
+      "description": "URL base del microservicio de catálogo"
+    }
+  ]
+}
